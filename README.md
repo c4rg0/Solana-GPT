@@ -10,14 +10,15 @@
 - **Optimized Code:** Produces code that adheres to Solana's best practices and standards.
 - **Customizable Prompts:** Accepts specific prompts to generate tailored smart contract code for different requirements.
 
-## Installation
+## WIP
 
-### Prerequisites
+- **Automated Testing:** Future plans include generating tests for smart contracts to ensure their integrity post-deployment.
 
-1. **Python**: Ensure Python 3.7 or later is installed on your system.
-2. **Pip**: Python package installer.
+## Getting Started 🚀
 
-### Steps
+**Fill in ENV Variables**
+
+**Install pnpm**
 
 1. **Clone the Repository**
 
