@@ -25,3 +25,20 @@
    ```bash
    git clone https://github.com/yourusername/solgpt.git
    cd solgpt
+
+### Usage
+
+Access the chat interface and start generating your Solana smart contracts with ease!
+
+### Why SolGPT? 🤔
+
+SolGPT was developed out of a passion for combining AI capabilities with the limitless potential of blockchain technology. This tool aims to simplify and democratize Solana smart contract development, providing a safer and more efficient experience for all developers.
+
+### Contributing 🤝
+Want to contribute to SolGPT? We’d love to have you onboard! Please follow these steps:
+
+Fork the repository.
+Create a feature branch (git checkout -b feature-branch).
+Commit your changes (git commit -am 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Create a new Pull Request.
